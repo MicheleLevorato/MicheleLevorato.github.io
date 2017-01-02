@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Michele Levorato"
-  avatar           : "/assets/images/bio-photo.jpeg"
+  avatar           : "https://avatars0.githubusercontent.com/u/11387531?v=3&u=4c3ad9a1398d659c23c55a1b65aad8106f8c62e7&s=400"
   bio              : "Analytics guy. Nerd with a twist, sucker for data. Conscious, skeptic, curious and passionate. I speak italian, english, spanish, JavaScript."
   location         : "Italy"
   email            :
